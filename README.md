@@ -4,7 +4,7 @@
 
 run npm install in root directory
 
-client folder is cliend side width vue js
+client folder is client side width vue js
 start client side
 1) cd client
 2) npm run serve
