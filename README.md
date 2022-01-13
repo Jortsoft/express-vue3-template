@@ -7,7 +7,8 @@ run npm install in root directory
 client folder is client side width vue js
 start client side
 1) cd client
-2) npm run serve
+2) npm i
+3) npm run serve
 
 backend side is server folder
 start server side width express.js
